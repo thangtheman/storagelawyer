@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: House Market Indicators</title>
+	<atom:link href="http://quicksale.themerex.net/house-market-indicators/feed/" rel="self" type="application/rss+xml" />
+	<link>http://quicksale.themerex.net/house-market-indicators/</link>
+	<description>single property</description>
+	<lastBuildDate>Tue, 31 Mar 2015 10:16:49 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.2</generator>
+	<item>
+		<title>By: Admin</title>
+		<link>http://quicksale.themerex.net/house-market-indicators/#comment-26</link>
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Tue, 31 Mar 2015 10:14:04 +0000</pubDate>
+		<guid isPermaLink="false">http://quicksale.themerex.net/?p=642#comment-26</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.]]></description>
+		<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
